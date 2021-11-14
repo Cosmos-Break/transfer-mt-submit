@@ -1,0 +1,13 @@
+pyyaml
+mxnet-mkl
+numpy
+gluonnlp
+scipy
+transformers
+faiss-gpu
+sentencepiece
+adjustText
+datasets
+watermark
+scikit-learn
+matplotlib
