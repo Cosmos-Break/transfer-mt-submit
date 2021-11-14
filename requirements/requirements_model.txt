@@ -1,7 +1,5 @@
 pyyaml
-mxnet-mkl
 numpy
-gluonnlp
 scipy
 transformers
 faiss-gpu
@@ -11,3 +9,5 @@ datasets
 watermark
 scikit-learn
 matplotlib
+boto3
+wikiextractor

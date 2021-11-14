@@ -47,3 +47,4 @@ tr-en-subword.dic.all
 target
 prediction
 GenerationEval/metrics
+data.zip
