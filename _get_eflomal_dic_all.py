@@ -3,12 +3,12 @@ import nltk
 import string
 punc = string.punctuation
 import sys
-# lang = sys.argv[1]
+lang = sys.argv[1]
 # nltk.download('punkt')
 from nltk.tokenize import word_tokenize
 # lang = 'my'
 # lang = 'id'
-lang = 'tr'
+# lang = 'tr'
 L1, L2 = [], []
 for line, line2 in zip(open(f'{lang}-en-data/train.en'), open(f'{lang}-en-data/train.{lang}')):
     if line == '\n' or line2 == '\n':
